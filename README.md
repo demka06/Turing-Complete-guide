@@ -147,4 +147,6 @@ SEE TURING COMPLETE
 
 ### Turing complete
 ![image](https://github.com/user-attachments/assets/0ecca628-5e9c-4b95-9d25-dba023cb2c9e)
-![image](https://github.com/user-attachments/assets/7049a81b-becd-4f13-9a2a-807075d5d106)
+![image](https://github.com/user-attachments/assets/1871e5ee-a8af-41d7-bc4a-2a752de6d266)
+
+
